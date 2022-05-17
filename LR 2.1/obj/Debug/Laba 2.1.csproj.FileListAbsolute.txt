@@ -1,0 +1,5 @@
+C:\Users\Dmitry\RiderProjects\Laba 2.1\Laba 2.1\bin\Debug\Laba_2._1.exe
+C:\Users\Dmitry\RiderProjects\Laba 2.1\Laba 2.1\bin\Debug\Laba_2._1.pdb
+C:\Users\Dmitry\RiderProjects\Laba 2.1\Laba 2.1\obj\Debug\Laba 2.1.csprojResolveAssemblyReference.cache
+C:\Users\Dmitry\RiderProjects\Laba 2.1\Laba 2.1\obj\Debug\Laba_2._1.exe
+C:\Users\Dmitry\RiderProjects\Laba 2.1\Laba 2.1\obj\Debug\Laba_2._1.pdb
